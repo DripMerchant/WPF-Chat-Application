@@ -10,3 +10,5 @@ SuperDripChat is a personal chat application project currently in development. I
 
 In the future, we plan to implement local text messaging features and explore the possibility of cloud-based hosting on Azure to enhance the messaging experience.
 
+## Note
+Make sure you select a contact before typing in messages, otherwise they won't send
